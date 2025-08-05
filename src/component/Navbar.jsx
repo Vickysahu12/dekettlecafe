@@ -11,8 +11,8 @@ export default function Navbar() {
         
         {/* Logo */}
         <Link to="/" className="text-2xl font-montserrat">
-          <span className="text-white">𝓓𝓮</span>
-          <span className="text-orange-400">𝓚𝓮𝓽𝓽𝓵𝓮𝓒𝓪𝓯𝓮</span>
+          <span className="text-white">𝓤𝓘</span>
+          <span className="text-orange-400">𝓒𝓪𝓯𝓮</span>
         </Link>
 
         {/* Desktop Menu */}

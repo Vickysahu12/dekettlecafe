@@ -17,7 +17,7 @@ export default function AboutSection() {
             Our Cafe
           </h2>
           <p className="text-gray-600 leading-relaxed">
-            Established with love for authentic flavors, Dekettlecafe has been serving mouth-watering dishes made from the freshest ingredients. 
+            Established with love for authentic flavors, UICafe has been serving mouth-watering dishes made from the freshest ingredients. 
             Our journey started with a vision: to bring people together through food that not only satisfies hunger but also creates memories. 
           </p>
           <p className="text-gray-600 leading-relaxed">
@@ -61,7 +61,7 @@ export default function AboutSection() {
           <h3 className="text-gray-500 italic text-xl">𝓓𝓮𝓭𝓲𝓬𝓪𝓽𝓮𝓭</h3>
           <h2 className="text-4xl font-bold text-gray-900">Our Services</h2>
           <p className="text-gray-600 leading-relaxed">
-            At <span className="font-bold text-orange-500">DekettleCafe</span>, 
+            At <span className="font-bold text-orange-500">UICafe</span>, 
             we believe dining is more than just eating — it’s an experience. 
             Whether you’re here for a quick bite, a family dinner, or a casual 
             hangout, we ensure top-quality service and a warm, welcoming 

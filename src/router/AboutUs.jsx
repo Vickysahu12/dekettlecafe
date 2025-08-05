@@ -12,7 +12,7 @@ const AboutUs = () => {
         {/* Teaser Text */}
         <p className="text-lg md:text-xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
           Yo fam 👋, abhi to sirf trailer hai — picture abhi baaki hai 🔥🍕.  
-          DeKettleCafe is cooking up something lit — a place where your vibes meet
+          𝓤𝓘 𝓒𝓪𝓯𝓮 is cooking up something lit — a place where your vibes meet
           the perfect snacks & brews ☕✨.  
           Stay tuned, kyunki hum lekar aa rahe hain woh experience jo Instagram
           pe bhi filter se zyada aesthetic lagega 😎📸.

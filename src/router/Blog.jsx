@@ -7,7 +7,7 @@ const Blog = () => {
         
         {/* Heading */}
         <h2 className="text-5xl md:text-6xl font-extrabold font-montserrat tracking-wide">
-          ✍️ DeKettleCafe <span className="text-orange-400">Blog</span>
+          ✍️ UICafe <span className="text-orange-400">Blog</span>
         </h2>
 
         {/* Simple Placeholder Text */}
