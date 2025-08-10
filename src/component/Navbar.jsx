@@ -11,7 +11,7 @@ export default function Navbar() {
         
         {/* Logo */}
         <Link to="/" className="text-2xl font-montserrat">
-          <span className="text-white">𝓤𝓘</span>
+          <span className="text-white">𝓓𝓮𝓵𝓲𝓰𝓱𝓽 </span>
           <span className="text-orange-400">𝓒𝓪𝓯𝓮</span>
         </Link>
 

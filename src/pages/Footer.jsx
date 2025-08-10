@@ -11,10 +11,10 @@ export default function Footer() {
         {/* Logo and About */}
         <div>
           <h2 className="text-2xl font-bold text-white">
-           𝓤𝓘 <span className="text-orange-500">𝓒𝓪𝓯𝓮</span>
+           𝓓𝓻𝓪𝓰𝓸𝓷 𝓓𝓮𝓵𝓲𝓰𝓱𝓽 <span className="text-orange-500">𝓒𝓪𝓯𝓮</span>
           </h2>
           <p className="mt-4 text-sm leading-relaxed">
-            Welcome to UICafe — a place where every meal feels like home. 
+            Welcome to 𝓓𝓻𝓪𝓰𝓸𝓷 𝓓𝓮𝓵𝓲𝓰𝓱𝓽 — a place where every meal feels like home. 
             From freshly brewed coffee to delicious meals, we serve with love 
             and care to make your day brighter.
           </p>
@@ -76,7 +76,7 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="border-t border-gray-700 py-4 text-center text-sm text-gray-400">
-        <p>© {new Date().getFullYear()} UICafe. All Rights Reserved.</p>
+        <p>© {new Date().getFullYear()} 𝓓𝓻𝓪𝓰𝓸𝓷 𝓓𝓮𝓵𝓲𝓰𝓱𝓽. All Rights Reserved.</p>
         <div className="flex justify-center space-x-4 mt-2">
           <img src="https://img.icons8.com/color/48/visa.png" alt="Visa" className="h-6"/>
           <img src="https://img.icons8.com/color/48/mastercard.png" alt="MasterCard" className="h-6"/>

@@ -13,7 +13,7 @@ const Products = () => {
         {/* Teaser Text */}
         <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
           Hold up fam 👀... abhi ke liye sirf vibes, par thodi der mein full-on drip 💯.  
-          UICAFE is dropping <span className="text-orange-400 font-bold">mouth-watering products</span>  
+          𝓓𝓻𝓪𝓰𝓸𝓷 𝓓𝓮𝓵𝓲𝓰𝓱𝓽 Cafe is dropping <span className="text-orange-400 font-bold">mouth-watering products</span>  
           jo tumhari cravings ko next level pe le jayenge 🔥🍕☕.
         </p>
 
